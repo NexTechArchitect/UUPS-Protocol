@@ -196,7 +196,7 @@ While it implements production-grade patterns, upgradeable systems introduce sig
 ---
 
 <div align="center">
-<b>Built with ❤️ by NEXTECHARHITECT</b>
+<b>Built with ❤️ by NexTechArchitect</b>
 
 
 
