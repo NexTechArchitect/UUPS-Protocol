@@ -188,12 +188,6 @@ The following tools and standards were used to build this project:
 
 ---
 
-## ⚠️ Disclaimer
-
-This repository is intended for **educational purposes and architectural exploration**.
-While it implements production-grade patterns, upgradeable systems introduce significant complexity. Do not use without a thorough security review and storage layout audit.
-
----
 
 <div align="center">
 <b>Built with ❤️ by NexTechArchitect</b>
